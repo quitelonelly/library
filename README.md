@@ -7,4 +7,4 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone <URL_репозитория>
-   cd library_management
+   cd library
